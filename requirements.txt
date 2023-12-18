@@ -1,2 +1,9 @@
 torch
 pandas
+numpy
+torchvision
+jupyter 
+ipykernel
+matplotlib
+pillow
+scipy
